@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 198
+  controlID: 41
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -202,7 +202,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: Development
+  m_LastLoadedLayoutName: 
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -229,7 +229,7 @@ MonoBehaviour:
   m_MinSize: {x: 500, y: 100}
   m_MaxSize: {x: 40480, y: 8096}
   vertical: 0
-  controlID: 197
+  controlID: 100
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -360,22 +360,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/Settings
+    m_Folders: []
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\eneye\OneDrive\Escritorio\Mobil_PC_RTSCamera
+  m_LastProjectPath: D:\PROYECT MULTIMEDIA\UNITY CLOUD\Mobil-PC_RTSCamera_Personal
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 7ecd0000
     m_LastClickedID: 52606
-    m_ExpandedIDs: 000000008cb4000000ca9a3b
+    m_ExpandedIDs: 000000002e6600003066000032660000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -403,7 +402,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000008cb400008eb4000090b4000000ca9a3b
+    m_ExpandedIDs: ffffffff000000002e660000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -778,9 +777,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.12096821, y: 0.69782645, z: -4.76136}
+    m_Target: {x: -64, y: 38, z: -143}
     speed: 2
-    m_Value: {x: -0.12096821, y: 0.69782645, z: -4.76136}
+    m_Value: {x: -64, y: 38, z: -143}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -827,13 +826,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.35733783, y: 0.0050024316, z: -0.0019544992, w: 0.93402636}
+    m_Target: {x: 0.2937125, y: -0.332436, z: 0.10972735, w: 0.8895523}
     speed: 2
-    m_Value: {x: -0.35733783, y: -0.0050024316, z: 0.0019544992, w: -0.93402636}
+    m_Value: {x: 0.2936943, y: -0.3324154, z: 0.10972055, w: 0.88949716}
   m_Size:
-    m_Target: 1.4990019
+    m_Target: 12.124355
     speed: 2
-    m_Value: 1.4990019
+    m_Value: 12.124355
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -892,23 +891,23 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 0ebcedffd2c7edff9ccbedff2ccdedff78cdedffdeeefdff423fffff9242ffff22a6ffff2ebeffffb8faffff7a870100c2870100da920100209301009ebd010040be010088be010058c4010078c50100a0c9010020cd01002ac304003cc40400a8c4040082c50400
+      m_ExpandedIDs: 1ecbffffdcdfffffaaeaffff1efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: SETTINGS
+        m_OriginalName: SETTINGS
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -13538
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 4}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
